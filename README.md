@@ -1,3 +1,6 @@
 # simple-biolerplate
 
-Koa2 + Webpack4 + React16
+- koa 2
+- webpack 4
+- react 16
+- less 
